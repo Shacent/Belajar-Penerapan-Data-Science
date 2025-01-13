@@ -31,7 +31,7 @@ Gunakan langkah berikut untuk mengatur lingkungan kerja:
 
 ```bash
 # Clone repository (jika menggunakan repository Git)
-git clone <repository-url>
+git clone https://github.com/Shacent/Belajar-Penerapan-Data-Science
 
 # Aktifkan environment (opsional jika menggunakan conda)
 conda create --name proyek-akhir python=3.9
