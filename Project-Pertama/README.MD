@@ -1,5 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Attrition Rate Jaya Jaya Maju
-
+# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju Terhadap Attrition Rate 
 ## Business Understanding
 
 Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000. Perusahaan ini memiliki lebih dari 1.000 karyawan yang tersebar di seluruh penjuru negeri. 
