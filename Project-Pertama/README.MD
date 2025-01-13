@@ -35,7 +35,7 @@ Gunakan langkah berikut untuk mengatur lingkungan kerja:
 git clone <repository-url>
 
 # Aktifkan environment (opsional jika menggunakan conda)
-conda create --name proyek-akhir python=3.8
+conda create --name proyek-akhir python=3.9
 conda activate proyek-akhir
 
 # Instal library yang diperlukan
