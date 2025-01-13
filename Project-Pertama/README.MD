@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Attrition Jaya Jaya Maju
+# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Attrition Rate Jaya Jaya Maju
 
 ## Business Understanding
 
